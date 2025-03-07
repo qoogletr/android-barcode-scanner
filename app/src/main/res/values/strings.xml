@@ -1,0 +1,10 @@
+    <!-- Yeni stringler ekleyelim -->
+    <string name="sent">Gönderildi</string>
+    <string name="pending">Bekliyor</string>
+    <string name="delete">Sil</string>
+    <string name="clear_history">Geçmişi Temizle</string>
+    <string name="confirm_delete">Silmeyi Onayla</string>
+    <string name="confirm_clear_history">Tüm tarama geçmişini silmek istediğinizden emin misiniz?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="cancel">İptal</string>
